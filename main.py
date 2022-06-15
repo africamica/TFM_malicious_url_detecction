@@ -35,7 +35,7 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-shodan_key='9ros0wdi6E1beiLW4fehD2PQx84Tm1z3'
+shodan_key='xxxxxxxxx'
 ShodanApi= Shodan(shodan_key)
 
 
